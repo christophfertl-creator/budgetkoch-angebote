@@ -1,12 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T13:55:11.286Z",
+ "generatedAt": "2026-11-02T19:15:42.068Z",
  "validUntil": "2026-11-07",
  "stores": [
   "Billa",
   "Spar"
  ],
  "offers": [
+  {
+   "store": "Spar",
+   "name": "Apfel STG Gala Tasse        MK",
+   "key": "aepfel",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 2.66,
+   "offerPrice": 1.7,
+   "source": "https://www.spar.at/produktwelt/apfel-stg-gala-tasse-mk-p2020006410946"
+  },
   {
    "store": "Billa",
    "name": "Iglo Broccoli",
