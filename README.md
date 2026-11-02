@@ -15,3 +15,10 @@ node index.mjs public/offers.json
 **Rechtlicher Hinweis:** Das automatische Auslesen ist für den Prototyp gedacht. Vor einer
 Veröffentlichung im App Store muss die Nutzung rechtlich geprüft oder durch eine
 lizenzierte Datenquelle ersetzt werden.
+
+## Lauf auf dem Mac
+SPAR sperrt Anfragen von GitHub-Servern (HTTP 403). Deshalb läuft der Import zusätzlich
+auf dem Mac: `mac-import.sh`, gestartet von `~/Library/LaunchAgents/at.budgetkoch.angebote.plist`
+(montags 07:00, verpasste Läufe werden nachgeholt, einmal pro Woche). Protokoll:
+`~/Library/Logs/budgetkoch-angebote.log`. Die GitHub-Action bleibt als Ersatz; fällt dort eine
+Kette aus, behält sie deren noch gültige Angebote.
