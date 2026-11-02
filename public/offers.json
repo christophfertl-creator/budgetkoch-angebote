@@ -1,9 +1,10 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T19:06:50.646Z",
+ "generatedAt": "2026-11-02T13:55:11.286Z",
  "validUntil": "2026-11-07",
  "stores": [
-  "Billa"
+  "Billa",
+  "Spar"
  ],
  "offers": [
   {
@@ -27,6 +28,46 @@
    "source": "https://shop.billa.at/produkte/ja-natuerlich-semmelwuerfel-00343035"
   },
   {
+   "store": "Spar",
+   "name": "SPAR Steinofen Weizenmischbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 400,
+   "regularPrice": 2.37,
+   "offerPrice": 1.89,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-steinofen-weizenmischbrot-p2020004837233"
+  },
+  {
+   "store": "Spar",
+   "name": "Anker G'staubter Wecken Roggenmischbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.75,
+   "offerPrice": 2.27,
+   "source": "https://www.spar.at/produktwelt/anker-g-staubter-wecken-roggenmischbrot-p5853212"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Baguette de Paris",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 300,
+   "regularPrice": 2.85,
+   "offerPrice": 2.37,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-baguette-de-paris-p2020003092756"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Pures Roggenbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.85,
+   "offerPrice": 2.37,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-pures-roggenbrot-p2020005749122"
+  },
+  {
    "store": "Billa",
    "name": "Ölz Super Soft Sandwich",
    "key": "brot",
@@ -37,6 +78,16 @@
    "source": "https://shop.billa.at/produkte/oelz-super-soft-sandwich-00403275"
   },
   {
+   "store": "Spar",
+   "name": "Ölz Farmer Soft Sandwich",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 750,
+   "regularPrice": 3.99,
+   "offerPrice": 3.29,
+   "source": "https://www.spar.at/produktwelt/oelz-farmer-soft-sandwich-p7944536"
+  },
+  {
    "store": "Billa",
    "name": "BILLA Freilandeier M",
    "key": "eier",
@@ -45,6 +96,96 @@
    "regularPrice": 3.32,
    "offerPrice": 2.89,
    "source": "https://shop.billa.at/produkte/billa-freilandeier-m-00482550"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Feinstes Geflügel Maishendl Filetschnitzel",
+   "key": "huhn",
+   "unit": "g",
+   "packSize": 480,
+   "regularPrice": 8.19,
+   "offerPrice": 5.79,
+   "source": "https://www.spar.at/produktwelt/spar-feinstes-gefluegel-maishendl-filetschnitzel-p2020003219009"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Edamer",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.19,
+   "offerPrice": 0.99,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-edamer-p4812036"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Gouda",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.19,
+   "offerPrice": 0.99,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-gouda-p4812067"
+  },
+  {
+   "store": "Spar",
+   "name": "Woerle Emmentaler Der Milde",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.35,
+   "offerPrice": 1.59,
+   "source": "https://www.spar.at/produktwelt/woerle-emmentaler-der-milde-p7716423"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Österkron",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.39,
+   "offerPrice": 1.79,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-oesterkron-p7703478"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Bergbaron",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 700,
+   "regularPrice": 10.49,
+   "offerPrice": 5.24,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-bergbaron-p6252670"
+  },
+  {
+   "store": "Spar",
+   "name": "Kärntnermilch Drautaler",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 700,
+   "regularPrice": 9.49,
+   "offerPrice": 5.99,
+   "source": "https://www.spar.at/produktwelt/kaerntnermilch-drautaler-p5262694"
+  },
+  {
+   "store": "Spar",
+   "name": "S-BUDGET Lachsfilet natur aus Norwegen",
+   "key": "lachs",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 1.99,
+   "offerPrice": 1.79,
+   "source": "https://www.spar.at/produktwelt/s-budget-lachsfilet-natur-aus-norwegen-p2020005875135"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Lachsfilet",
+   "key": "lachs",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 6.49,
+   "offerPrice": 4.99,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-lachs-filet-p1417548"
   },
   {
    "store": "Billa",
@@ -227,6 +368,46 @@
    "source": "https://shop.billa.at/produkte/werkovits-spiralen-00911649"
   },
   {
+   "store": "Spar",
+   "name": "SPAR Rundkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-reis-rundkorn-p2628424"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Parboiled Langkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-parboiled-reis-langkorn-p6754204"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Kochbeutel Langkorn Reis 8 Beutel à 125g",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-kochbeutel-reis-langkorn-8-beutel-a-125g-p2020001550388"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Langkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-reis-langkorn-p6693732"
+  },
+  {
    "store": "Billa",
    "name": "Iglo Blattspinat Zwutschgerl",
    "key": "spinat",
@@ -235,6 +416,16 @@
    "regularPrice": 4.75,
    "offerPrice": 3.16,
    "source": "https://shop.billa.at/produkte/iglo-blattspinat-zwutschgerl-00721036"
+  },
+  {
+   "store": "Spar",
+   "name": "TANN Wiener per KG",
+   "key": "wuerstel",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 1.99,
+   "offerPrice": 1.59,
+   "source": "https://www.spar.at/produktwelt/tann-wiener-per-kg-p6988098"
   }
  ]
 }
