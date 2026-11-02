@@ -1,0 +1,11 @@
+{
+  "name": "budgetkoch-scraper",
+  "version": "1.0.0",
+  "description": "Wöchentlicher Angebots-Import für BudgetKoch",
+  "scripts": {},
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "devalue": "^5.1.1"
+  }
+}

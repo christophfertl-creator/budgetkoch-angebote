@@ -1,0 +1,431 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-02T13:55:11.286Z",
+ "validUntil": "2026-11-07",
+ "stores": [
+  "Billa",
+  "Spar"
+ ],
+ "offers": [
+  {
+   "store": "Billa",
+   "name": "Iglo Broccoli",
+   "key": "brokkoli",
+   "unit": "g",
+   "packSize": 600,
+   "regularPrice": 4.75,
+   "offerPrice": 3.16,
+   "source": "https://shop.billa.at/produkte/iglo-broccoli-00721548"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja! Natürlich Semmelwürfel",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 250,
+   "regularPrice": 1.61,
+   "offerPrice": 1.29,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-semmelwuerfel-00343035"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Steinofen Weizenmischbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 400,
+   "regularPrice": 2.37,
+   "offerPrice": 1.89,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-steinofen-weizenmischbrot-p2020004837233"
+  },
+  {
+   "store": "Spar",
+   "name": "Anker G'staubter Wecken Roggenmischbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.75,
+   "offerPrice": 2.27,
+   "source": "https://www.spar.at/produktwelt/anker-g-staubter-wecken-roggenmischbrot-p5853212"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Baguette de Paris",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 300,
+   "regularPrice": 2.85,
+   "offerPrice": 2.37,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-baguette-de-paris-p2020003092756"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Pures Roggenbrot",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.85,
+   "offerPrice": 2.37,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-pures-roggenbrot-p2020005749122"
+  },
+  {
+   "store": "Billa",
+   "name": "Ölz Super Soft Sandwich",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 750,
+   "regularPrice": 3.69,
+   "offerPrice": 2.99,
+   "source": "https://shop.billa.at/produkte/oelz-super-soft-sandwich-00403275"
+  },
+  {
+   "store": "Spar",
+   "name": "Ölz Farmer Soft Sandwich",
+   "key": "brot",
+   "unit": "g",
+   "packSize": 750,
+   "regularPrice": 3.99,
+   "offerPrice": 3.29,
+   "source": "https://www.spar.at/produktwelt/oelz-farmer-soft-sandwich-p7944536"
+  },
+  {
+   "store": "Billa",
+   "name": "BILLA Freilandeier M",
+   "key": "eier",
+   "unit": "stk",
+   "packSize": 10,
+   "regularPrice": 3.32,
+   "offerPrice": 2.89,
+   "source": "https://shop.billa.at/produkte/billa-freilandeier-m-00482550"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Feinstes Geflügel Maishendl Filetschnitzel",
+   "key": "huhn",
+   "unit": "g",
+   "packSize": 480,
+   "regularPrice": 8.19,
+   "offerPrice": 5.79,
+   "source": "https://www.spar.at/produktwelt/spar-feinstes-gefluegel-maishendl-filetschnitzel-p2020003219009"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Edamer",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.19,
+   "offerPrice": 0.99,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-edamer-p4812036"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Gouda",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.19,
+   "offerPrice": 0.99,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-gouda-p4812067"
+  },
+  {
+   "store": "Spar",
+   "name": "Woerle Emmentaler Der Milde",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.35,
+   "offerPrice": 1.59,
+   "source": "https://www.spar.at/produktwelt/woerle-emmentaler-der-milde-p7716423"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Österkron",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 2.39,
+   "offerPrice": 1.79,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-oesterkron-p7703478"
+  },
+  {
+   "store": "Spar",
+   "name": "Schärdinger Bergbaron",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 700,
+   "regularPrice": 10.49,
+   "offerPrice": 5.24,
+   "source": "https://www.spar.at/produktwelt/schaerdinger-bergbaron-p6252670"
+  },
+  {
+   "store": "Spar",
+   "name": "Kärntnermilch Drautaler",
+   "key": "kaese",
+   "unit": "g",
+   "packSize": 700,
+   "regularPrice": 9.49,
+   "offerPrice": 5.99,
+   "source": "https://www.spar.at/produktwelt/kaerntnermilch-drautaler-p5262694"
+  },
+  {
+   "store": "Spar",
+   "name": "S-BUDGET Lachsfilet natur aus Norwegen",
+   "key": "lachs",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 1.99,
+   "offerPrice": 1.79,
+   "source": "https://www.spar.at/produktwelt/s-budget-lachsfilet-natur-aus-norwegen-p2020005875135"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Natur*pur Bio-Lachsfilet",
+   "key": "lachs",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 6.49,
+   "offerPrice": 4.99,
+   "source": "https://www.spar.at/produktwelt/spar-natur-pur-bio-lachs-filet-p1417548"
+  },
+  {
+   "store": "Billa",
+   "name": "d'aucy Linsen",
+   "key": "linsen",
+   "unit": "g",
+   "packSize": 285,
+   "regularPrice": 2.79,
+   "offerPrice": 1.49,
+   "source": "https://shop.billa.at/produkte/daucy-linsen-00594652"
+  },
+  {
+   "store": "Billa",
+   "name": "Fini's Feinstes Bio-Pizzamehl",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 0.95,
+   "source": "https://shop.billa.at/produkte/finis-feinstes-biopizzamehl-00482068"
+  },
+  {
+   "store": "Billa",
+   "name": "Wiener Gusto Bio-Weizenmehl Type 480 Universal",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.51,
+   "offerPrice": 1.06,
+   "source": "https://shop.billa.at/produkte/wiener-gusto-bioweizenmehl-type-480-universal-00716000"
+  },
+  {
+   "store": "Billa",
+   "name": "Salzburger Landmehl Bio Dinkelmehl",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 2.66,
+   "offerPrice": 1.86,
+   "source": "https://shop.billa.at/produkte/salzburger-landmehl-bio-dinkelmehl-00770069"
+  },
+  {
+   "store": "Billa",
+   "name": "Wolf Dinkel Hörnchen",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.37,
+   "offerPrice": 1.42,
+   "source": "https://shop.billa.at/produkte/wolf-dinkel-hoernchen-00309475"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Al Bronzo Linguine",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-al-bronzo-linguine-00756826"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Collezione Tagliatelle",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-collezione-tagliatelle-00610194"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Collezione Tagliatelle Gelb/Grün",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-collezione-tagliatelle-gelbgruen-00428607"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Mezzi Rigatoni Al Bronzo",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-mezzi-rigatoni-al-bronzo-00756801"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla la collezione Farfalle",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-la-collezione-farfalle-00721351"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Collezione Castellane",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-collezione-castellane-00480835"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Collezione Fusilli Bucati Corti",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-collezione-fusilli-bucati-corti-00959246"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla La Collezione Treccine",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-la-collezione-treccine-00721345"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Conchiglie Rigate",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-conchiglie-rigate-00863680"
+  },
+  {
+   "store": "Billa",
+   "name": "Barilla Fettuccine Medie",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.29,
+   "offerPrice": 1.52,
+   "source": "https://shop.billa.at/produkte/barilla-fettuccine-medie-00863862"
+  },
+  {
+   "store": "Billa",
+   "name": "Leopold Holzmann Spiralen",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 2.75,
+   "offerPrice": 1.93,
+   "source": "https://shop.billa.at/produkte/leopold-holzmann-spiralen-00765697"
+  },
+  {
+   "store": "Billa",
+   "name": "Werkovits Bandnudeln Breit",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 3.04,
+   "offerPrice": 2.13,
+   "source": "https://shop.billa.at/produkte/werkovits-bandnudeln-breit-00911646"
+  },
+  {
+   "store": "Billa",
+   "name": "Werkovits Spiralen",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 3.04,
+   "offerPrice": 2.13,
+   "source": "https://shop.billa.at/produkte/werkovits-spiralen-00911649"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Rundkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-reis-rundkorn-p2628424"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Parboiled Langkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-parboiled-reis-langkorn-p6754204"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Kochbeutel Langkorn Reis 8 Beutel à 125g",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-kochbeutel-reis-langkorn-8-beutel-a-125g-p2020001550388"
+  },
+  {
+   "store": "Spar",
+   "name": "SPAR Langkorn Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.89,
+   "offerPrice": 1.51,
+   "source": "https://www.spar.at/produktwelt/spar-qualitaetsmarke-reis-langkorn-p6693732"
+  },
+  {
+   "store": "Billa",
+   "name": "Iglo Blattspinat Zwutschgerl",
+   "key": "spinat",
+   "unit": "g",
+   "packSize": 650,
+   "regularPrice": 4.75,
+   "offerPrice": 3.16,
+   "source": "https://shop.billa.at/produkte/iglo-blattspinat-zwutschgerl-00721036"
+  },
+  {
+   "store": "Spar",
+   "name": "TANN Wiener per KG",
+   "key": "wuerstel",
+   "unit": "g",
+   "packSize": 100,
+   "regularPrice": 1.99,
+   "offerPrice": 1.59,
+   "source": "https://www.spar.at/produktwelt/tann-wiener-per-kg-p6988098"
+  }
+ ]
+}

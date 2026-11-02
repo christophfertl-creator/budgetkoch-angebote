@@ -1,0 +1,27 @@
+name: Angebote aktualisieren
+
+on:
+  schedule:
+    - cron: '0 5 * * 1' # jeden Montag 05:00 UTC
+  workflow_dispatch: # manuell auslösbar
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: node index.mjs public/offers.json
+      - name: Neue Angebote einchecken
+        run: |
+          git config user.name "BudgetKoch Import"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/offers.json
+          git diff --cached --quiet || git commit -m "Angebote vom $(date +%d.%m.%Y)"
+          git push
