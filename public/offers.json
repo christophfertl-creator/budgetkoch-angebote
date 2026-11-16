@@ -1,11 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:00:14.235Z",
- "validUntil": "2026-11-14",
+ "generatedAt": "2026-11-16T06:04:41.167Z",
+ "validUntil": "2026-11-21",
  "stores": [
   "Billa"
  ],
  "offers": [
+  {
+   "store": "Billa",
+   "name": "Danone Fruchtzwerge Go! Erdbeer-Banane",
+   "key": "bananen",
+   "unit": "g",
+   "packSize": 70,
+   "regularPrice": 0.84,
+   "offerPrice": 0.56,
+   "source": "https://shop.billa.at/produkte/danone-fruchtzwerge-go-erdbeerbanane-00599305"
+  },
   {
    "store": "Billa",
    "name": "Müller Joghurt mit der Ecke Banane mit Schokolade-Flakes",
@@ -18,13 +28,13 @@
   },
   {
    "store": "Billa",
-   "name": "nöm PRO Erdbeere Proteindrink Skyr",
+   "name": "Danone Fruchtzwerge Go! Erdbeere",
    "key": "beeren",
    "unit": "g",
-   "packSize": 500,
-   "regularPrice": 2.79,
-   "offerPrice": 1.39,
-   "source": "https://shop.billa.at/produkte/noem-pro-erdbeere-proteindrink-skyr-00888851"
+   "packSize": 70,
+   "regularPrice": 0.84,
+   "offerPrice": 0.56,
+   "source": "https://shop.billa.at/produkte/danone-fruchtzwerge-go-erdbeere-00456590"
   },
   {
    "store": "Billa",
@@ -42,8 +52,8 @@
    "key": "brokkoli",
    "unit": "g",
    "packSize": 300,
-   "regularPrice": 2.66,
-   "offerPrice": 2,
+   "regularPrice": 3.99,
+   "offerPrice": 2.66,
    "source": "https://shop.billa.at/produkte/iglo-cremegemuese-rahmbroccoli-0030388"
   },
   {
@@ -52,29 +62,9 @@
    "key": "brokkoli",
    "unit": "g",
    "packSize": 350,
-   "regularPrice": 2.66,
-   "offerPrice": 2,
+   "regularPrice": 3.99,
+   "offerPrice": 2.66,
    "source": "https://shop.billa.at/produkte/iglo-ideenkueche-broccoli-buchweizen-00242928"
-  },
-  {
-   "store": "Billa",
-   "name": "Meggle Rustikal Baguette",
-   "key": "brot",
-   "unit": "g",
-   "packSize": 160,
-   "regularPrice": 2.19,
-   "offerPrice": 1.89,
-   "source": "https://shop.billa.at/produkte/meggle-rustikal-baguette-00686581"
-  },
-  {
-   "store": "Billa",
-   "name": "Meggle Laugenbaguette Kräuterbutter",
-   "key": "brot",
-   "unit": "g",
-   "packSize": 160,
-   "regularPrice": 2.19,
-   "offerPrice": 1.89,
-   "source": "https://shop.billa.at/produkte/meggle-laugenbaguette-kraeuterbutter-00887212"
   },
   {
    "store": "Billa",
@@ -95,6 +85,16 @@
    "regularPrice": 4.49,
    "offerPrice": 3.89,
    "source": "https://shop.billa.at/produkte/oelz-mischbrot-00756873"
+  },
+  {
+   "store": "Billa",
+   "name": "Simply Good Gekochte Eier",
+   "key": "eier",
+   "unit": "stk",
+   "packSize": 6,
+   "regularPrice": 2.39,
+   "offerPrice": 1.99,
+   "source": "https://shop.billa.at/produkte/simply-good-gekochte-eier-00316365"
   },
   {
    "store": "Billa",
@@ -182,29 +182,9 @@
    "key": "kuerbis",
    "unit": "g",
    "packSize": 350,
-   "regularPrice": 2.66,
-   "offerPrice": 2,
+   "regularPrice": 3.99,
+   "offerPrice": 2.66,
    "source": "https://shop.billa.at/produkte/iglo-ideenkueche-kuerbis-quinoa-00242938"
-  },
-  {
-   "store": "Billa",
-   "name": "BILLA Heringsalat mit Räucherlachs",
-   "key": "lachs",
-   "unit": "g",
-   "packSize": 170,
-   "regularPrice": 2.99,
-   "offerPrice": 1.99,
-   "source": "https://shop.billa.at/produkte/billa-heringsalat-mit-raeucherlachs-00433917"
-  },
-  {
-   "store": "Billa",
-   "name": "BILLA Bio Stremellachs",
-   "key": "lachs",
-   "unit": "g",
-   "packSize": 100,
-   "regularPrice": 4.49,
-   "offerPrice": 3.99,
-   "source": "https://shop.billa.at/produkte/billa-bio-stremellachs-00902062"
   },
   {
    "store": "Billa",
@@ -218,16 +198,6 @@
   },
   {
    "store": "Billa",
-   "name": "Fini's Feinstes Bio-Pizzamehl",
-   "key": "mehl",
-   "unit": "g",
-   "packSize": 1000,
-   "regularPrice": 1.89,
-   "offerPrice": 0.95,
-   "source": "https://shop.billa.at/produkte/finis-feinstes-biopizzamehl-00482068"
-  },
-  {
-   "store": "Billa",
    "name": "Schärdinger Mozzarella Scheiben",
    "key": "mozzarella",
    "unit": "g",
@@ -238,13 +208,43 @@
   },
   {
    "store": "Billa",
-   "name": "BILLA Heringsalat Alt Wiener Art",
+   "name": "Wolf Dinkel Hörnchen",
+   "key": "nudeln",
+   "unit": "g",
+   "packSize": 500,
+   "regularPrice": 1.99,
+   "offerPrice": 1.42,
+   "source": "https://shop.billa.at/produkte/wolf-dinkel-hoernchen-00309475"
+  },
+  {
+   "store": "Billa",
+   "name": "Danone Dany Sahne Schoko",
+   "key": "obers",
+   "unit": "ml",
+   "packSize": 190,
+   "regularPrice": 0.99,
+   "offerPrice": 0.66,
+   "source": "https://shop.billa.at/produkte/danone-dany-sahne-schoko-00387480"
+  },
+  {
+   "store": "Billa",
+   "name": "Danone Dany Sahne Vanille",
+   "key": "obers",
+   "unit": "ml",
+   "packSize": 190,
+   "regularPrice": 0.99,
+   "offerPrice": 0.66,
+   "source": "https://shop.billa.at/produkte/danone-dany-sahne-vanille-00387269"
+  },
+  {
+   "store": "Billa",
+   "name": "Hofstädter Fair zum Tier Sacherwürstel",
    "key": "wuerstel",
    "unit": "g",
-   "packSize": 170,
-   "regularPrice": 2.99,
-   "offerPrice": 1.99,
-   "source": "https://shop.billa.at/produkte/billa-heringsalat-alt-wiener-art-00703964"
+   "packSize": 320,
+   "regularPrice": 5.49,
+   "offerPrice": 3.99,
+   "source": "https://shop.billa.at/produkte/hofstaedter-fair-zum-tier-sacherwuerstel-00883020"
   },
   {
    "store": "Billa",
@@ -252,8 +252,8 @@
    "key": "zucchini",
    "unit": "g",
    "packSize": 350,
-   "regularPrice": 2.66,
-   "offerPrice": 2,
+   "regularPrice": 3.99,
+   "offerPrice": 2.66,
    "source": "https://shop.billa.at/produkte/iglo-ideenkueche-zucchini-bulgur-00242934"
   }
  ]
