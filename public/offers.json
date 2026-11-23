@@ -1,190 +1,110 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T06:04:41.167Z",
- "validUntil": "2026-11-21",
+ "generatedAt": "2026-11-23T06:04:26.045Z",
+ "validUntil": "2026-11-28",
  "stores": [
   "Billa"
  ],
  "offers": [
   {
    "store": "Billa",
-   "name": "Danone Fruchtzwerge Go! Erdbeer-Banane",
+   "name": "nöm PRO Schoko-Banane Protein Topfencreme",
    "key": "bananen",
    "unit": "g",
-   "packSize": 70,
-   "regularPrice": 0.84,
-   "offerPrice": 0.56,
-   "source": "https://shop.billa.at/produkte/danone-fruchtzwerge-go-erdbeerbanane-00599305"
+   "packSize": 235,
+   "regularPrice": 1.79,
+   "offerPrice": 1.19,
+   "source": "https://shop.billa.at/produkte/noem-pro-schokobanane-protein-topfencreme-00740581"
   },
   {
    "store": "Billa",
-   "name": "Müller Joghurt mit der Ecke Banane mit Schokolade-Flakes",
-   "key": "bananen",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 1.03,
-   "offerPrice": 0.68,
-   "source": "https://shop.billa.at/produkte/mueller-joghurt-mit-der-ecke-banane-mit-schokoladeflakes-0030690"
-  },
-  {
-   "store": "Billa",
-   "name": "Danone Fruchtzwerge Go! Erdbeere",
+   "name": "Darbo Fruchtikus Erdbeer-Vanille",
    "key": "beeren",
    "unit": "g",
-   "packSize": 70,
-   "regularPrice": 0.84,
-   "offerPrice": 0.56,
-   "source": "https://shop.billa.at/produkte/danone-fruchtzwerge-go-erdbeere-00456590"
+   "packSize": 125,
+   "regularPrice": 1.59,
+   "offerPrice": 1.06,
+   "source": "https://shop.billa.at/produkte/darbo-fruchtikus-erdbeervanille-00501770"
   },
   {
    "store": "Billa",
-   "name": "BILLA Genusswelt Kapernbeeren",
+   "name": "Alpro Soja Erdbeere",
    "key": "beeren",
    "unit": "g",
-   "packSize": 350,
-   "regularPrice": 2.79,
-   "offerPrice": 2.29,
-   "source": "https://shop.billa.at/produkte/billa-genusswelt-kapernbeeren-00700337"
+   "packSize": 400,
+   "regularPrice": 1.99,
+   "offerPrice": 1.32,
+   "source": "https://shop.billa.at/produkte/alpro-soja-erdbeere-00728222"
   },
   {
    "store": "Billa",
-   "name": "Iglo Cremegemüse Rahm-Broccoli",
+   "name": "Iglo Broccoli",
    "key": "brokkoli",
    "unit": "g",
-   "packSize": 300,
-   "regularPrice": 3.99,
-   "offerPrice": 2.66,
-   "source": "https://shop.billa.at/produkte/iglo-cremegemuese-rahmbroccoli-0030388"
+   "packSize": 600,
+   "regularPrice": 4.75,
+   "offerPrice": 3.16,
+   "source": "https://shop.billa.at/produkte/iglo-broccoli-00721548"
   },
   {
    "store": "Billa",
-   "name": "Iglo Ideenküche Broccoli Buchweizen",
-   "key": "brokkoli",
-   "unit": "g",
-   "packSize": 350,
-   "regularPrice": 3.99,
-   "offerPrice": 2.66,
-   "source": "https://shop.billa.at/produkte/iglo-ideenkueche-broccoli-buchweizen-00242928"
-  },
-  {
-   "store": "Billa",
-   "name": "Ölz Landbrot Weizenmischbrot",
+   "name": "Ölz Weißbrot",
    "key": "brot",
    "unit": "g",
-   "packSize": 500,
-   "regularPrice": 4.18,
-   "offerPrice": 3.69,
-   "source": "https://shop.billa.at/produkte/oelz-landbrot-weizenmischbrot-00776473"
+   "packSize": 375,
+   "regularPrice": 3.04,
+   "offerPrice": 2.59,
+   "source": "https://shop.billa.at/produkte/oelz-weissbrot-00627777"
   },
   {
    "store": "Billa",
-   "name": "Ölz Mischbrot",
+   "name": "Ölz Vollkorn Soft Sandwich",
    "key": "brot",
    "unit": "g",
-   "packSize": 780,
-   "regularPrice": 4.49,
-   "offerPrice": 3.89,
-   "source": "https://shop.billa.at/produkte/oelz-mischbrot-00756873"
-  },
-  {
-   "store": "Billa",
-   "name": "Simply Good Gekochte Eier",
-   "key": "eier",
-   "unit": "stk",
-   "packSize": 6,
-   "regularPrice": 2.39,
-   "offerPrice": 1.99,
-   "source": "https://shop.billa.at/produkte/simply-good-gekochte-eier-00316365"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Gouda Scheiben",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-gouda-scheiben-00430598"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Bergbaron Scheiben",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-bergbaron-scheiben-00415491"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Rahm-Emmentaler Scheiben",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-rahmemmentaler-scheiben-00525771"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Bergbaron geräuchert Scheiben 45%",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-bergbaron-geraeuchert-scheiben-45-00725247"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Bergkäse 45% Scheiben Hauchdünn",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-bergkaese-45-scheiben-hauchduenn-00682513"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Rahm-Emmentaler geräuchert Scheiben",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-rahmemmentaler-geraeuchert-scheiben-00525779"
-  },
-  {
-   "store": "Billa",
-   "name": "Schärdinger Protein Bergbaron Scheiben",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-protein-bergbaron-scheiben-00425116"
-  },
-  {
-   "store": "Billa",
-   "name": "BILLA Genusswelt Bergkäse",
-   "key": "kaese",
-   "unit": "g",
-   "packSize": 200,
+   "packSize": 750,
    "regularPrice": 3.99,
    "offerPrice": 3.49,
-   "source": "https://shop.billa.at/produkte/billa-genusswelt-bergkaese-00424096"
+   "source": "https://shop.billa.at/produkte/oelz-vollkorn-soft-sandwich-00533251"
   },
   {
    "store": "Billa",
-   "name": "Iglo Ideenküche Kürbis Quinoa",
-   "key": "kuerbis",
+   "name": "Schlögl Eier aus Bodenhaltung",
+   "key": "eier",
+   "unit": "stk",
+   "packSize": 10,
+   "regularPrice": 4.47,
+   "offerPrice": 3.99,
+   "source": "https://shop.billa.at/produkte/schloegl-eier-aus-bodenhaltung-00968705"
+  },
+  {
+   "store": "Billa",
+   "name": "Schärdinger Greek Style Mango & Maracuja Joghurt",
+   "key": "joghurt",
    "unit": "g",
-   "packSize": 350,
-   "regularPrice": 3.99,
-   "offerPrice": 2.66,
-   "source": "https://shop.billa.at/produkte/iglo-ideenkueche-kuerbis-quinoa-00242938"
+   "packSize": 175,
+   "regularPrice": 1.23,
+   "offerPrice": 0.82,
+   "source": "https://shop.billa.at/produkte/schaerdinger-greek-style-mango-und-maracuja-joghurt-00735046"
+  },
+  {
+   "store": "Billa",
+   "name": "Schärdinger Greek Style Vanilla & Blueberry Joghurt",
+   "key": "joghurt",
+   "unit": "g",
+   "packSize": 175,
+   "regularPrice": 1.23,
+   "offerPrice": 0.82,
+   "source": "https://shop.billa.at/produkte/schaerdinger-greek-style-vanilla-und-blueberry-joghurt-00735047"
+  },
+  {
+   "store": "Billa",
+   "name": "Schärdinger Greek Style Joghurt Karamell Cheesecake",
+   "key": "joghurt",
+   "unit": "g",
+   "packSize": 175,
+   "regularPrice": 1.23,
+   "offerPrice": 0.82,
+   "source": "https://shop.billa.at/produkte/schaerdinger-greek-style-joghurt-karamell-cheesecake-00888347"
   },
   {
    "store": "Billa",
@@ -198,13 +118,63 @@
   },
   {
    "store": "Billa",
-   "name": "Schärdinger Mozzarella Scheiben",
-   "key": "mozzarella",
+   "name": "Ja! Natürlich Weizenmehl Glatt",
+   "key": "mehl",
    "unit": "g",
-   "packSize": 150,
-   "regularPrice": 2.79,
-   "offerPrice": 1.86,
-   "source": "https://shop.billa.at/produkte/schaerdinger-mozzarella-scheiben-00473683"
+   "packSize": 1000,
+   "regularPrice": 0.99,
+   "offerPrice": 0.85,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-weizenmehl-glatt-00643067"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja! Natürlich Weizenmehl Universal",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 0.99,
+   "offerPrice": 0.85,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-weizenmehl-universal-00643074"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja! Natürlich Weizenvollkornmehl",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 0.99,
+   "offerPrice": 0.85,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-weizenvollkornmehl-00643069"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja!Natürlich Bio Weizenmehl Griffig",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 0.99,
+   "offerPrice": 0.85,
+   "source": "https://shop.billa.at/produkte/janatuerlich-bio-weizenmehl-griffig-00902894"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja! Natürlich Dinkelmehl",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.79,
+   "offerPrice": 1.59,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-dinkelmehl-00686825"
+  },
+  {
+   "store": "Billa",
+   "name": "Ja! Natürlich Dinkelvollkornmehl",
+   "key": "mehl",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 1.79,
+   "offerPrice": 1.59,
+   "source": "https://shop.billa.at/produkte/ja-natuerlich-dinkelvollkornmehl-00643078"
   },
   {
    "store": "Billa",
@@ -218,43 +188,93 @@
   },
   {
    "store": "Billa",
-   "name": "Danone Dany Sahne Schoko",
-   "key": "obers",
-   "unit": "ml",
-   "packSize": 190,
-   "regularPrice": 0.99,
-   "offerPrice": 0.66,
-   "source": "https://shop.billa.at/produkte/danone-dany-sahne-schoko-00387480"
-  },
-  {
-   "store": "Billa",
-   "name": "Danone Dany Sahne Vanille",
-   "key": "obers",
-   "unit": "ml",
-   "packSize": 190,
-   "regularPrice": 0.99,
-   "offerPrice": 0.66,
-   "source": "https://shop.billa.at/produkte/danone-dany-sahne-vanille-00387269"
-  },
-  {
-   "store": "Billa",
-   "name": "Hofstädter Fair zum Tier Sacherwürstel",
-   "key": "wuerstel",
+   "name": "Ben's Original Express Basmati",
+   "key": "reis",
    "unit": "g",
-   "packSize": 320,
-   "regularPrice": 5.49,
-   "offerPrice": 3.99,
-   "source": "https://shop.billa.at/produkte/hofstaedter-fair-zum-tier-sacherwuerstel-00883020"
+   "packSize": 220,
+   "regularPrice": 2.69,
+   "offerPrice": 2.39,
+   "source": "https://shop.billa.at/produkte/bens-original-express-basmati-00721837"
   },
   {
    "store": "Billa",
-   "name": "Iglo Ideenküche Zucchini Bulgur",
-   "key": "zucchini",
+   "name": "Ben's Original Express Reis Langkorn",
+   "key": "reis",
    "unit": "g",
-   "packSize": 350,
+   "packSize": 220,
+   "regularPrice": 2.69,
+   "offerPrice": 2.39,
+   "source": "https://shop.billa.at/produkte/bens-original-express-reis-langkorn-00721830"
+  },
+  {
+   "store": "Billa",
+   "name": "Ben's Original Express Sticky Bowl Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 220,
+   "regularPrice": 2.69,
+   "offerPrice": 2.39,
+   "source": "https://shop.billa.at/produkte/bens-original-express-sticky-bowl-reis-00756128"
+  },
+  {
+   "store": "Billa",
+   "name": "Ben's Original Express Jasmin Reis",
+   "key": "reis",
+   "unit": "g",
+   "packSize": 220,
+   "regularPrice": 2.69,
+   "offerPrice": 2.39,
+   "source": "https://shop.billa.at/produkte/bens-original-express-jasmin-reis-00757500"
+  },
+  {
+   "store": "Billa",
+   "name": "Häuptelsalat",
+   "key": "salat",
+   "unit": "stk",
+   "packSize": 1,
+   "regularPrice": 1.39,
+   "offerPrice": 0.99,
+   "source": "https://shop.billa.at/produkte/haeuptelsalat-0089743"
+  },
+  {
+   "store": "Billa",
+   "name": "Manner Haushaltsschokolade",
+   "key": "schokolade",
+   "unit": "g",
+   "packSize": 200,
    "regularPrice": 3.99,
-   "offerPrice": 2.66,
-   "source": "https://shop.billa.at/produkte/iglo-ideenkueche-zucchini-bulgur-00242934"
+   "offerPrice": 2.99,
+   "source": "https://shop.billa.at/produkte/manner-haushaltsschokolade-00863440"
+  },
+  {
+   "store": "Billa",
+   "name": "Ager Wildschweinschnitzel",
+   "key": "schwein",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 29.99,
+   "offerPrice": 24.99,
+   "source": "https://shop.billa.at/produkte/ager-wildschweinschnitzel-00730673"
+  },
+  {
+   "store": "Billa",
+   "name": "Hofstädter Bauchfleischstreifen Fair zum Tier 3 Stk.",
+   "key": "speck",
+   "unit": "g",
+   "packSize": 1000,
+   "regularPrice": 12.79,
+   "offerPrice": 9.99,
+   "source": "https://shop.billa.at/produkte/hofstaedter-bauchfleischstreifen-fair-zum-tier-3-stk-00700545"
+  },
+  {
+   "store": "Billa",
+   "name": "Iglo Blattspinat Zwutschgerl",
+   "key": "spinat",
+   "unit": "g",
+   "packSize": 650,
+   "regularPrice": 4.75,
+   "offerPrice": 3.16,
+   "source": "https://shop.billa.at/produkte/iglo-blattspinat-zwutschgerl-00721036"
   }
  ]
 }
